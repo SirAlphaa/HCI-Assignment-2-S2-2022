@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 
 function App() {
@@ -8,7 +9,6 @@ function App() {
         <h1>AT-HOP machine</h1>
         <span>Usability test</span>
       </div>
-
     </div>
   );
 }
