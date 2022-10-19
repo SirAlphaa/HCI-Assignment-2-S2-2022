@@ -6,7 +6,7 @@ function App() {
     <div className="App">
 
       <div className="landingPageTitles">
-        <h1>AT-HOP machine</h1>
+        <h1>Aut beta website</h1>
         <span>Usability test</span>
       </div>
       

@@ -19,3 +19,7 @@ html {
   font-size: 25px;
   margin-bottom: 30px;
 }
+
+hr {
+  width: 10%;
+}
