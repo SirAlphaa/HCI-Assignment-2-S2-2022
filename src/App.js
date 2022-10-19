@@ -9,10 +9,7 @@ function App() {
         <h1>AT-HOP machine</h1>
         <span>Usability test</span>
       </div>
-<<<<<<< Updated upstream
-=======
       
->>>>>>> Stashed changes
     </div>
   );
 }
