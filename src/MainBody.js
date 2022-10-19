@@ -42,9 +42,11 @@ function MainBody() {
                                 aria-label="Tabs"
                                 centered
                             >
-                                <Tab label="Item One" value="1" />
+                                <Tab label="Introduction" value="1" />
                                 <Tab label="Item Two" value="2" />
                                 <Tab label="Item Three" value="3" />
+                                <Tab label="Item four" value="4" />
+                                <Tab label="Item Three" value="5" />
                             </TabList>
                         </Box>
                         <TabPanel value="1">
@@ -64,6 +66,20 @@ function MainBody() {
                         <TabPanel value="3">
                             <Typography variant='body1' colour="">
                                 Item One<br></br>
+                                Testing, My SDNFCKJLSEHUVJLSNDVCUESis meant to be <br></br>
+                                paragrah lol
+                            </Typography>
+                        </TabPanel>
+                        <TabPanel value="4">
+                            <Typography variant='body1' colour="">
+                                Item Four<br></br>
+                                Testing, My SDNFCKJLSEHUVJLSNDVCUESis meant to be <br></br>
+                                paragrah lol
+                            </Typography>
+                        </TabPanel>
+                        <TabPanel value="5">
+                            <Typography variant='body1' colour="">
+                                Item Five<br></br>
                                 Testing, My SDNFCKJLSEHUVJLSNDVCUESis meant to be <br></br>
                                 paragrah lol
                             </Typography>
