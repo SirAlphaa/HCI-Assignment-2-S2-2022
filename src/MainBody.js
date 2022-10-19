@@ -7,20 +7,20 @@ import TabPanel from '@mui/lab/TabPanel';
 import { createMuiTheme, ThemeProvider } from '@mui/material';
 import { useState } from 'react';
 import Typography from '@mui/material/Typography';
-import { yellow } from '@mui/material/colors';
+import { cyan, yellow } from '@mui/material/colors';
 
 function MainBody() {
 
     const theme = createMuiTheme({
         palette: {
             mode: "dark",
-            primary: yellow
+            primary: cyan
         },
         
         typography: {
             fontFamily: ['Bierstadt'],
             allVariants: {
-                color: "#FFD700"
+                color: "white"
             }
         }
     })
