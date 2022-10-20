@@ -47,12 +47,12 @@ function MainBody() {
                                 <Tab label="Research Methodology" value="2" />
                                 <Tab label="Findings" value="3" />
                                 <Tab label="Discussion" value="4" />
-                                <Tab label="Conclusion" value="5" />
+                                <Tab label="Conclusion and Recommendations" value="5" />
                                 <Tab label="References" value="6" />
                             </TabList>
                         </Box>
 
-{/* ========================= Introduction Tab ==================================================================================*/}
+                        {/* ========================= Introduction Tab ==================================================================================*/}
 
                         <TabPanel value="1">
                             <Typography variant='h4'>
@@ -71,7 +71,7 @@ function MainBody() {
                                 Finally, the report will provide suggestions on improvement based on the findings.
                             </Typography>
                             <br /> <br />
-                            <Typography variant='h6'>
+                            <Typography variant='h5'>
                                 &emsp;&emsp;Why is Website Usability Important?
                             </Typography>
                             <br /> <br />
@@ -81,7 +81,7 @@ function MainBody() {
                                 This may involve providing succinct and pertinent information regarding the website's topic.
                                 Additionally taken into account is the thoughtful positioning of things within the website's suitable places.
                                 The website's suitability for users of all ages and genders might also need to be taken into account (Lawrence & Tavakol, 2006).
-                                <br /> 
+                                <br />
                                 <br />
                                 &emsp;&emsp;A user-friendly website makes a desirable first impression on visitors who might become customers.
                                 Making the website simple to use is a crucial tactic to help users easily locate what they are looking for.
@@ -92,12 +92,12 @@ function MainBody() {
                             </Typography>
                         </TabPanel>
 
-{/* ========================= Research Methodology Tab ==========================================================================*/}
+                        {/* ========================= Research Methodology Tab ==========================================================================*/}
 
                         <TabPanel value="2">
                             <Typography variant='h4'>
-                                Research Methodology 
-                                <br /> 
+                                Research Methodology
+                                <br />
                                 <br />
                             </Typography>
                             <Typography variant='body1' colour="">
@@ -107,21 +107,21 @@ function MainBody() {
                                 factors like positive associations with a brand, management credibility, customer contentment,
                                 competitive advantage, and cultural transformations are challenging, if not impossible, to capture
                                 with numerical inputs, this strategy relies on the kind of intelligence that machines lack.
-                                <br /> 
+                                <br />
                                 <br />
                                 &emsp;&emsp;A first-hand investigation into the experience of using an artifact while the item is being used is
                                 the goal of usability testing. The user's perspective is limited to their own thoughts and experiences
                                 t the moment they are using the object. As shoppers with decades of purchasing experience, we may also
                                 view this enquiry as routine. Perhaps this amazing simplicity has concealed the effectiveness of the
                                 directness mechanism, the core of usability testing.
-                                <br /> 
+                                <br />
                                 <br />
                                 &emsp;&emsp;A person's own testing of a newly purchased product and a usability test are two different things. A usability
                                 test involves expressing the experience of using an artifact, describing that experience, and then communicating
                                 that information to the item's creators. However, these activities can also be based on commonplace skills, making
                                 it possible for non-specialists to engage in productive practice. The key usability strategy has been talking or thinking
                                 aloud so that a user may express their experience, particularly their thoughts, to the other people participating in the testing.
-                                <br /> 
+                                <br />
                                 <br />
                                 &emsp;&emsp;According to Phil, during the observation, if you notice something on the user’s face like a frown; an intervention such as “Something’s
                                 up, eh?” results in a desirable outcome. Such an intervention doesn't result from concentrating on what to say or according to a large list
@@ -132,19 +132,19 @@ function MainBody() {
                                 might be grinning and obviously having fun, and the moderator might be grinning and also be having fun and say, "This is fun, eh? It's
                                 a simple way for the user to stay in touch with their experience and expand on it at their own pace. This relationship creates a solid foundation
                                 for a truly ethical approach that can maintain a constant focus on everyone's well-being.
-                                <br /> 
                                 <br />
-                                <Typography variant='h6'>
+                                <br />
+                                <Typography variant='h5'>
                                     &emsp;&emsp;Sample
                                 </Typography>
-                                <br /> 
-                                <Typography variant='body1' colour="">
-                                &emsp;&emsp;There are eight participants in our usability test. Of the 7 participants, 5 were men and 2 were women, and all had prior understanding of how websites
-                                were meant to operate as well as a lot of experience using websites in both their personal and professional life.
-                                <br /> 
                                 <br />
+                                <Typography variant='body1' colour="">
+                                    &emsp;&emsp;There are eight participants in our usability test. Of the 7 participants, 5 were men and 2 were women, and all had prior understanding of how websites
+                                    were meant to operate as well as a lot of experience using websites in both their personal and professional life.
+                                    <br />
+                                    <br />
                                 </Typography>
-                                <Typography variant='h6'>
+                                <Typography variant='h5'>
                                     &emsp;&emsp;Materials
                                 </Typography>
                                 <br />
@@ -152,9 +152,9 @@ function MainBody() {
                                 using the website of “https://beta.aut.ac.nz”. To complete those interviews, we were using several devices to help us gather the data of the website such
                                 as allowing participants to use our computer, laptop or tablet and while in progress, we used voice recorder application in our phone or laptop to record their
                                 voices of feedbacks toward the website and as an evidence that the interviews were conducted and based on their voices.
-                                <br /> 
                                 <br />
-                                <Typography variant='h6'>
+                                <br />
+                                <Typography variant='h5'>
                                     &emsp;&emsp;Procedure
                                 </Typography>
                                 <br />
@@ -164,7 +164,7 @@ function MainBody() {
                             </Typography>
                         </TabPanel>
 
-{/* ========================= Findings Tab ======================================================================================*/}
+                        {/* ========================= Findings Tab ======================================================================================*/}
 
                         <TabPanel value="3">
                             <Typography variant='body1' colour="">
@@ -177,49 +177,155 @@ function MainBody() {
                                 &emsp;&emsp;We have performed a qualitative data analysis consisting of the following steps
                                 <br />
                                 <br />
-                                &emsp;&emsp;1 - Reading the transcription. 
+                                &emsp;&emsp;1 - Reading the transcription.
                                 <br />
                                 &emsp;&emsp;2 - Labelling relevant words, phrases, sentences or sections.
                                 <br />
                                 &emsp;&emsp;3 - Codification (Hierarchical Coding Frame) Positive and Negative.
                                 <br />
                                 <br />
-                                <img 
-                                    src='https://drive.google.com/uc?export=view&id=1V3gTKywFI-fdEjp_7oczBieBhAq-c4GJ' 
-                                    alt='Summary of Participant Feedback Pie Graph' 
+                                <img
+                                    src='https://drive.google.com/uc?export=view&id=1V3gTKywFI-fdEjp_7oczBieBhAq-c4GJ'
+                                    alt='Summary of Participant Feedback Pie Graph'
                                     width="600"></img>
                             </Typography>
                         </TabPanel>
 
-{/* ========================= Findings Tab ======================================================================================*/}
+                        {/* ========================= Discussion Tab ====================================================================================*/}
 
                         <TabPanel value="4">
                             <Typography variant='body1' colour="">
-                                Item Four <br /> <hr /> <br />
-                                Testing, My SDNFCKJLSEHUVJLSNDVCUESis meant to be <br />
-                                paragrah lol
+                                <Typography variant='h4'>
+                                    Discussion <br /> <br />
+                                </Typography>
+                                <Typography variant='h5'>
+                                    &emsp;&emsp;Navigation
+                                </Typography>
+                                <br />
+                                <Typography variant='body1' colour="" fontWeight='bold'>
+                                    &emsp;&emsp;Participants found that the navigation of the web had issues.
+                                </Typography>
+                                <br />
+                                &emsp;&emsp;Based on some participants’ point of view, the AUT beta website has poor navigation. Participants found that the menu was hard to discover, and there were not any visible tabs to click or a search bar to find something using keywords. To make it simpler for users to find what they are looking for on your website, it is imperative to develop user-friendly navigation. When someone visits your website, they should not have to spend much time determining what to click. There should be as little resistance as possible when moving from point A to point B. Garrett & Young (2016) say that to optimise a website’s navigation, you should keep the major navigation's structure straightforward (and near the top of your page); include navigation in the footer of the page; have a search bar right at the top so users can easily search using keywords, and ensure that the user does not have to dig deep to find something.
+                                <br />
+                                <br />
+                                <Typography variant='h5'>
+                                    &emsp;&emsp;Design
+                                </Typography>
+                                <br />
+                                <Typography variant='body1' colour="" fontWeight='bold'>
+                                    &emsp;&emsp;Participants found that the website design was chaotic and released stress.
+                                </Typography>
+                                <br />
+                                &emsp;&emsp;Even though some participants rated the website design as simple and interactive, most users found the website design to be chaotic as it releases stress the moment they try to scroll the website up and down. Furthermore, its design does not support any indication to users, for example, the clicked button does not show an indication if the button is clicked or not, which could cause confusion for users if the button is working or not. Participants also stated that there were too many colours with high contrast; and that the moving balls are very distracting especially when trying to read something. Huang & Cappel (2012) mentioned that while your website's aesthetics are unquestionably significant, most visitors are not checking it out to see how sleek the design is. They seek to accomplish a task or discover a certain piece of knowledge. Unnecessary design components, or those that have no functional purpose, will therefore simply confuse and make it more difficult for visitors to achieve their goals.
+                                <br />
+                                <br />
+                                <Typography variant='h5'>
+                                    &emsp;&emsp;Layout
+                                </Typography>
+                                <br />
+                                <Typography variant='body1' colour="" fontWeight='bold'>
+                                    &emsp;&emsp;Participants found issues with the elements on the structure of the website.
+                                </Typography>
+                                <br />
+                                &emsp;&emsp;The website's layout was criticised by five out of seven participants as being overly broad. They felt like they frequently needed to scroll up or down merely to see another thing on the screen because the elements were too far apart. Even though two of the seven participants did like how everything was displayed on the screen, they both said they preferred the minimalist design since it prevented them from being overloaded with information.
+                                <br />
+                                <br />
+                                &emsp;&emsp;According to our findings, participants found that some elements which form part of the structure of the website were not correctly positioned. According to W. Haas and Grams ( 2000), the information on the website or webpage should be clear and simple to understand in order for the reader to interpret and understand the website' structure and content in a manner that is appropriate. In the same manner, Van de Rakt (2021) explains that a website can be structured using a variety of tools, including taxonomies like categories and tags, as well as internal links and navigation buttons. Most posts and pages on a website typically contain content that is organised around a wide range of topics that are connected in some way so that Google can index easily to the URL for the benefit of the webpage and the user.
+                                <br />
+                                <br />
+                                <Typography variant='h5'>
+                                    &emsp;&emsp;Purpose
+                                </Typography>
+                                <br />
+                                <Typography variant='body1' colour="" fontWeight='bold'>
+                                    &emsp;&emsp;Participants found that the purpose of the web page was not clear.
+                                </Typography>
+                                <br />
+                                &emsp;&emsp;Some of the participants found the purpose of the website confusing and did not know what the website was about, whether it was to help entrepreneurs, an events page, or a page that provided customer services. In that sense, according to D'Ambra (2018), a user or audience will obtain new knowledge or a deeper understanding of a topic through the use of a website whose objective is to provide detailed and useful information to that user or audience. In that sense, websites should focus on providing information that can be put into practice and can include "how to", guidance, processes, support information, directions, instructions and other similar content that is clear and detailed for the understanding of the user.
+                                <br />
+                                <br />
+                                <Typography variant='h5'>
+                                    &emsp;&emsp;Bugs
+                                </Typography>
+                                <br />
+                                <Typography variant='body1' colour="" fontWeight='bold'>
+                                    &emsp;&emsp;Participants found some missing links and inconsistencies.
+                                </Typography>
+                                <br />
+                                &emsp;&emsp;The participants also found a couple of errors; one where the arrow that is a link was overlapping over some text. Another found that although there was a “Subscribe to newsletter” section, there was no link for it, so there was nothing to click. As Huang & Cappel (2012) stated that these kinds of issues could be solved if the website was kept simple enough and only contained elements that are necessary instead of adding extra items that are never even used or cause inconsistencies just for the sake of aesthetics. The most crucial factor is that they must actively seek to complete a task or learn a certain piece of information.
                             </Typography>
                         </TabPanel>
+
+                        {/* ========================= Conclusions and Recommenadations Tab ====================================================================================*/}
 
                         <TabPanel value="5">
                             <Typography variant='body1' colour="">
-                                Item Five <br /> <hr /> <br />
-                                Testing, My SDNFCKJLSEHUVJLSNDVCUESis meant to be <br />
-                                paragrah lol
+                                <Typography variant='h4'>
+                                    Conclusion and Recommenadations
+                                </Typography>
+                                <br />
+                                <br />
+                                &emsp;&emsp;In conclusion, based on findings that we collected from participants, the AUT beta website has numerous issues as more negative comments were produced. The reason being is that the website overall layout and design contains some flaws. For instance: the font size used is small, which makes readers difficult to read and follow the website content, excessive background design and animation, which lead to eye strain and break the excitement of engaging with the website to participants, buggy components, which make users unable to open a new tab or page, inconsistent indentation from one component to another made users feel uninterested to see the website as well as appeared to be a pointless website
+                                <br />
+                                <br />
+                                &emsp;&emsp;After analysing positive and negative judgements from our participants, our group would like to recommend that the AUT beta website should be using a dropdown menu instead of a hamburger menu as we believe that dropdown menu produces efficiency in navigating users from one page to another in a faster way. It would also be wise to keep the AUT’s brand image consistent across all websites and platforms. Therefore,  using similar structures, colours and design elements will make it easy for users to navigate the website as it will be familiar to them.
+
                             </Typography>
                         </TabPanel>
 
+                        {/* ========================= References Tab ====================================================================================*/}
+
                         <TabPanel value="6">
                             <Typography variant='body1' colour="">
-                                Item Five <br /> <hr /> <br />
-                                Testing, My SDNFCKJLSEHUVJLSNDVCUESis meant to be <br />
-                                paragrah lol
+                                <Typography variant='h4'>
+                                    References
+                                </Typography>
+                                <br />
+                                <br />
+                                &emsp;&emsp;Carter, Phil. (2007). Liberating usability testing. Interactions. 14. 18-22. 
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;10.1145/1229863.1229864.
+                                <br />
+                                <br />
+                                &emsp;&emsp;Garett, R., Chiu, J., Zhang, L., & Young, S. D. (2016). A literature review: website design and user engagement. 
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;Online journal of communication and media technologies, 6(3), 1.
+                                <br />
+                                <br />
+                                &emsp;&emsp;Haas, S. W., & Grams, E. S. (2000). Readers, authors, and page structure: A discussion of four questions arising from a content analysis 
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;of Web pages. Journal of the Association for Information Science and Technology, 51(2), 181.
+                                <br />
+                                <br />
+                                &emsp;&emsp;Lawrence, D., & Tavakol, S. (2006). Balanced website design: optimising aesthetics,
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;usability and purpose. Springer Science & Business Media.
+                                <br />
+                                <br />
+                                &emsp;&emsp;Marieke van de Rakt. (2021, October 1). What is site structure, and why is it important? 
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;Yoast. https://yoast.com/site-structure/
+                                <br />
+                                <br />
+                                &emsp;&emsp;Scott D'Ambra. (2018, February 22). What is the purpose of a website? ClearTech
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;Interactive. https://www.cleart.com/what-is-the-purpose-of-a-website.html
+                                <br />
+                                <br />
+                                &emsp;&emsp;Zhenyu Huang, James J. Cappel. (2012) A Comparative Study of Web Site Usability Practices of Fortune 500 Versus INC. 500 Companies. 
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;Information Systems Management 29:2, pages 112-122. 
+                                <br />
+                                <br />
+                                &emsp;&emsp; 
+                                <br />
+                                &emsp;&emsp;&emsp;&emsp;
                             </Typography>
                         </TabPanel>
                     </TabContext>
                 </Box>
             </ThemeProvider>
-
         </>
     )
 }
