@@ -53,9 +53,9 @@ function MainBody() {
                         </Box>
 
                         {/* ========================= Introduction Tab ==================================================================================*/}
-
+                        <div className='textalignment'>
                         <TabPanel value="1">
-                            <Typography align='center'>
+                            
                             <Typography variant='h4'>
                                 Introduction <br /><br />
                             </Typography>
@@ -91,13 +91,13 @@ function MainBody() {
                                 even though it should contain your own ideas and inspiration for the artistic component of the website.
                                 The success of your online business may depend on the usability of your website with a focus on visitors who could represent potential customers for the company.
                             </Typography>
-                            </Typography>
+
                         </TabPanel>
 
                         {/* ========================= Research Methodology Tab ==========================================================================*/}
 
                         <TabPanel value="2">
-                        <Typography align='center'>
+                        
                             <Typography variant='h4'>
                                 Research Methodology
                                 <br />
@@ -165,13 +165,13 @@ function MainBody() {
                                 goal of the study and the kind of data that was going to be collected, was handed to potential participants once they consented to take part. The participant signed a
                                 consent form after they were informed that we would be recording their statements while they were taking the exam and seeing them in action.
                             </Typography>
-                            </Typography>
+                            
                         </TabPanel>
 
                         {/* ========================= Findings Tab ======================================================================================*/}
 
                         <TabPanel value="3">
-                        <Typography align='center'>
+                        
                             <Typography variant='body1' colour="">
                                 <Typography variant='h4'>
                                     Findings <br /> <br />
@@ -194,13 +194,13 @@ function MainBody() {
                                     alt='Summary of Participant Feedback Pie Graph'
                                     width="600"></img>
                             </Typography>
-                            </Typography>
+                            
                         </TabPanel>
 
                         {/* ========================= Discussion Tab ====================================================================================*/}
 
                         <TabPanel value="4">
-                        <Typography align='center'>
+                        
                             <Typography variant='body1' colour="">
                                 <Typography variant='h4'>
                                     Discussion <br /> <br />
@@ -262,13 +262,13 @@ function MainBody() {
                                 <br />
                                 &emsp;&emsp;The participants also found a couple of errors; one where the arrow that is a link was overlapping over some text. Another found that although there was a “Subscribe to newsletter” section, there was no link for it, so there was nothing to click. As Huang & Cappel (2012) stated that these kinds of issues could be solved if the website was kept simple enough and only contained elements that are necessary instead of adding extra items that are never even used or cause inconsistencies just for the sake of aesthetics. The most crucial factor is that they must actively seek to complete a task or learn a certain piece of information.
                             </Typography>
-                            </Typography>
+                            
                         </TabPanel>
 
                         {/* ========================= Conclusions and Recommenadations Tab ====================================================================================*/}
 
                         <TabPanel value="5">
-                        <Typography align='center'>
+                        
                             <Typography variant='body1' colour="">
                                 <Typography variant='h4'>
                                     Conclusion and Recommenadations
@@ -281,13 +281,13 @@ function MainBody() {
                                 &emsp;&emsp;After analysing positive and negative judgements from our participants, our group would like to recommend that the AUT beta website should be using a dropdown menu instead of a hamburger menu as we believe that dropdown menu produces efficiency in navigating users from one page to another in a faster way. It would also be wise to keep the AUT’s brand image consistent across all websites and platforms. Therefore,  using similar structures, colours and design elements will make it easy for users to navigate the website as it will be familiar to them.
 
                             </Typography>
-                            </Typography>
+                            
                         </TabPanel>
 
                         {/* ========================= References Tab ====================================================================================*/}
 
                         <TabPanel value="6">
-                        <Typography align='center'>
+                        
                             <Typography variant='body1' colour="">
                                 <Typography variant='h4'>
                                     References
@@ -333,8 +333,8 @@ function MainBody() {
                                 <br />
                                 &emsp;&emsp;&emsp;&emsp;
                             </Typography>
-                            </Typography>
                         </TabPanel>
+                        </div>
                     </TabContext>
                 </Box>
             </ThemeProvider>
