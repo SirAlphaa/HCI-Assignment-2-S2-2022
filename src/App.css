@@ -1,6 +1,6 @@
 html {
   background: linear-gradient(to top, #2b557c , #000222);
-  height: 300vw;
+  height: 350vw;
 }
 
 * {
@@ -26,8 +26,8 @@ hr {
 }
 
 .textalignment {
-  padding-left: 10vw;
-  padding-right: 10vw;
+  padding-left: 20vw;
+  padding-right: 20vw;
 }
 
 table, th, td {
